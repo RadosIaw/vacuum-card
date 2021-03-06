@@ -200,6 +200,7 @@ If this card works with your vacuum cleaner, please open a PR and your model to 
 - Ecovacs Deebot 950
 - EcoVacs Deebot OZMO T8 AIVI
 - Eufy Robovac 30c
+- Robojet X-One
 - [_Your vacuum?_][edit-readme]
 
 ## Development
